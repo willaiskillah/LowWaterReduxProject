@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 00dc7558df2c54c92b8dfe9123e905ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -402533206514273210
+    second: roryall_0
+  - first:
+      213: 5961023057669601712
+    second: roryall_1
+  - first:
+      213: -5542121416543301865
+    second: roryall_2
+  - first:
+      213: -2436534460308524298
+    second: roryall_3
+  - first:
+      213: -2832424982376567770
+    second: roryall_4
+  - first:
+      213: -980201871898864691
+    second: roryall_5
+  - first:
+      213: 1365383229784038490
+    second: roryall_6
+  - first:
+      213: -1883930198002385772
+    second: roryall_7
+  - first:
+      213: -8957027889270552220
+    second: roryall_8
+  - first:
+      213: 1679794477370726473
+    second: roryall_9
+  - first:
+      213: 730018006306203645
+    second: roryall_10
+  - first:
+      213: -8584534597326342170
+    second: roryall_11
+  - first:
+      213: 997062004828596189
+    second: roryall_12
+  - first:
+      213: 6814228090658589279
+    second: roryall_13
+  - first:
+      213: -6734262484080619879
+    second: roryall_14
+  - first:
+      213: 6057371529217472790
+    second: roryall_15
+  - first:
+      213: 2746819709718616684
+    second: roryall_16
+  - first:
+      213: 5436761275126237878
+    second: roryall_17
+  - first:
+      213: -3033541069259388105
+    second: roryall_18
+  - first:
+      213: 7181248649889396265
+    second: roryall_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roryall_0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2303
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644fa6f6e2ae96af0800000000000000
+      internalID: -402533206514273210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_1
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2303
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b93f4a53eec9b250800000000000000
+      internalID: 5961023057669601712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2303
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f0ad06fed6613b0800000000000000
+      internalID: -5542121416543301865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_3
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2303
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2ff4251d0bf2ed0800000000000000
+      internalID: -2436534460308524298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1727
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ca0804c7431b8d0800000000000000
+      internalID: -2832424982376567770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_5
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1727
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc39b41479f9562f0800000000000000
+      internalID: -980201871898864691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_6
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1727
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c9d8930d0d2f210800000000000000
+      internalID: 1365383229784038490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_7
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1727
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cbf66677fead5e0800000000000000
+      internalID: -1883930198002385772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1151
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46903c0579e32b380800000000000000
+      internalID: -8957027889270552220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_9
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1151
+        width: 344
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948585f5d24df4710800000000000000
+      internalID: 1679794477370726473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_10
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1151
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df72589428b812a00800000000000000
+      internalID: 730018006306203645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_11
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1151
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ff4c344b9dd880800000000000000
+      internalID: -8584534597326342170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 575
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7e8d85c9646dd00800000000000000
+      internalID: 997062004828596189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 575
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a813a5850019e50800000000000000
+      internalID: 6814228090658589279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_14
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 575
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e822c43f71b82a0800000000000000
+      internalID: -6734262484080619879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_15
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 575
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619729fff4b101450800000000000000
+      internalID: 6057371529217472790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 308
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad1d309f9ae1620800000000000000
+      internalID: 2746819709718616684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_17
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 308
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bacf741391437b40800000000000000
+      internalID: 5436761275126237878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_18
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 308
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b4c3b4872b6e5d0800000000000000
+      internalID: -3033541069259388105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roryall_19
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 0
+        width: 362
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9263964699be8a360800000000000000
+      internalID: 7181248649889396265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      roryall_0: -402533206514273210
+      roryall_1: 5961023057669601712
+      roryall_10: 730018006306203645
+      roryall_11: -8584534597326342170
+      roryall_12: 997062004828596189
+      roryall_13: 6814228090658589279
+      roryall_14: -6734262484080619879
+      roryall_15: 6057371529217472790
+      roryall_16: 2746819709718616684
+      roryall_17: 5436761275126237878
+      roryall_18: -3033541069259388105
+      roryall_19: 7181248649889396265
+      roryall_2: -5542121416543301865
+      roryall_3: -2436534460308524298
+      roryall_4: -2832424982376567770
+      roryall_5: -980201871898864691
+      roryall_6: 1365383229784038490
+      roryall_7: -1883930198002385772
+      roryall_8: -8957027889270552220
+      roryall_9: 1679794477370726473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
