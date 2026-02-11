@@ -2,9 +2,9 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Controls;
 
-public class ButtonController : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
-    public SpriteRenderer theSR;
+    public SpriteRenderer Rory;
     public Sprite defaultimage;
     public Sprite pressedImage;
 
@@ -12,21 +12,21 @@ public class ButtonController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        theSR = GetComponent<SpriteRenderer>();
+        Rory = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Keyboard.current[keytopress].wasPressedThisFrame)
+        if (Keyboard.current.rightArrowKey.wasPressedThisFrame)
         {
-            theSR.sprite = pressedImage;
+            Rory.sprite = pressedImage;
         }
 
-        if (Keyboard.current[keytopress].wasReleasedThisFrame)
+        if (Keyboard.current.rightArrowKey.wasReleasedThisFrame)
         {
-            theSR.sprite = defaultimage;
+            Rory.sprite = defaultimage;
         }
     }
-}
 
+}
