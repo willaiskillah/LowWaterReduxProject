@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Letters
+  - Activator
+  - Light Purple
+  - LightPurple
+  - r
   layers:
   - Default
   - TransparentFX
@@ -41,6 +45,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Beats
+    uniqueID: 1975405501
     locked: 0
   m_RenderingLayers:
   - Default
