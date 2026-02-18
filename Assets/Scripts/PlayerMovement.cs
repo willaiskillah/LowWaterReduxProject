@@ -6,9 +6,10 @@ public class PlayerMovement : MonoBehaviour
 {
     public SpriteRenderer Rory;
     public Sprite defaultimage;
-    public Sprite pressedImage;
+    public Sprite left;
+    public Sprite right;
+    public Sprite defaultimage2;
 
-    public Key keytopress;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,12 +21,26 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Keyboard.current.rightArrowKey.wasPressedThisFrame)
         {
-            Rory.sprite = pressedImage;
+            Rory.sprite = right;
+            Rory.transform.position = new Vector3 (Rory.transform.position.x + .2f, Rory.transform.position.y);
+        }
+    
+        if (Keyboard.current.leftArrowKey.wasPressedThisFrame)
+        {
+            Rory.sprite = left;
+            Rory.transform.position = new Vector3 (Rory.transform.position.x - .2f, Rory.transform.position.y);
         }
 
         if (Keyboard.current.rightArrowKey.wasReleasedThisFrame)
         {
             Rory.sprite = defaultimage;
+            Rory.transform.position = new Vector3 (Rory.transform.position.x + -.2f, Rory.transform.position.y);
+        }
+
+        if (Keyboard.current.leftArrowKey.wasReleasedThisFrame)
+        {
+            Rory.sprite = defaultimage2;
+            Rory.transform.position = new Vector3 (Rory.transform.position.x - -.2f, Rory.transform.position.y);
         }
     }
 
