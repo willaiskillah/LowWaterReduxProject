@@ -6,6 +6,8 @@ public class BeatScroller : MonoBehaviour
 {
     public float beatTempo;
     public bool hasStarted;
+    public float timestart;
+    public float timeout;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,6 +20,9 @@ public class BeatScroller : MonoBehaviour
     {
         if (!hasStarted)
         {
+            float currentTime = Time.time;
+            float timethusfar = currentTime - timestart;
+            if (timethusfar > 0.001f)
             //if(Keyboard.current.anyKey.wasPressedThisFrame)
             {
                 hasStarted = true;

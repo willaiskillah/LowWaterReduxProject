@@ -6,9 +6,8 @@ TagManager:
   tags:
   - Letters
   - Activator
-  - Light Purple
   - LightPurple
-  - r
+  - DarkPurple
   layers:
   - Default
   - TransparentFX
@@ -16,8 +15,8 @@ TagManager:
   - Letters
   - Water
   - UI
-  - 
-  - 
+  - Barrier
+  - Beats
   - 
   - 
   - 
@@ -48,6 +47,15 @@ TagManager:
     locked: 0
   - name: Beats
     uniqueID: 1975405501
+    locked: 0
+  - name: Barier
+    uniqueID: 3330951285
+    locked: 0
+  - name: Letters
+    uniqueID: 4154592963
+    locked: 0
+  - name: Characters
+    uniqueID: 3623080637
     locked: 0
   m_RenderingLayers:
   - Default

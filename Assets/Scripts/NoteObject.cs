@@ -3,13 +3,14 @@ using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Controls;
 public class NoteObject : MonoBehaviour
 {
+    public GameObject LightPurpleBlock;
     public bool canBePressed;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
     void Update()
     {
@@ -17,15 +18,21 @@ public class NoteObject : MonoBehaviour
         {
             if (canBePressed)
             {
-                GameObject.Find("Light Purple Block").SetActive(false);
+                if(gameObject.CompareTag("LightPurple"))
+                {
+                    gameObject.SetActive(false);
+                }
             }
         }
 
         if (Keyboard.current.rightArrowKey.wasPressedThisFrame)
         {
-            if (canBePressed)
+             if (canBePressed)
             {
-                GameObject.Find("Dark Purple Block").SetActive(false);
+                if(gameObject.CompareTag("DarkPurple"))
+                {
+                    gameObject.SetActive(false);
+                }
             }
         }
     }

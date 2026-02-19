@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5d8c05dd5979e484bbf9025b52e25301
+guid: ab3269b2f884b46b8bd6b22f321409be
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -999956264872178313
-    second: backtfup_0
+      213: -4425297887602756654
+    second: backtfup (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: backtfup_0
+      name: backtfup (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2048
-        height: 1048
+        width: 491
+        height: 110
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8e768bfd308624b2680c5548cac7a987
-      internalID: -999956264872178313
+      spriteID: 2d3b628740f2692c0800000000000000
+      internalID: -4425297887602756654
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 226ad1d4a7bed4dab939407915695b28
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -146,13 +146,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceOnImport
-        value: True
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      backtfup_0: -999956264872178313
+      backtfup (1)_0: -4425297887602756654
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
