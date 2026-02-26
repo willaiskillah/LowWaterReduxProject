@@ -22,8 +22,7 @@ public class BeatScroller : MonoBehaviour
         {
             float currentTime = Time.time;
             float timethusfar = currentTime - timestart;
-            if (timethusfar > 0.04f)
-            //if(Keyboard.current.anyKey.wasPressedThisFrame)
+            if (timethusfar > 0.02f)
             {
                 hasStarted = true;
             }
