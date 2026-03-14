@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: f0517f0027d154772933b744346dec0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7827655912463908815
+    second: Rory New_0
+  - first:
+      213: 7832677571291456718
+    second: Rory New_1
+  - first:
+      213: -357370710972383533
+    second: Rory New_2
+  - first:
+      213: -3098693344818366582
+    second: Rory New_3
+  - first:
+      213: 7843683658098160442
+    second: Rory New_4
+  - first:
+      213: -7112170950542113478
+    second: Rory New_5
+  - first:
+      213: -5173737056280520121
+    second: Rory New_6
+  - first:
+      213: -932227217482470419
+    second: Rory New_7
+  - first:
+      213: -3181532227828302991
+    second: Rory New_8
+  - first:
+      213: -7094043801565812029
+    second: Rory New_9
+  - first:
+      213: -476484747590112995
+    second: Rory New_10
+  - first:
+      213: -7651400640590338651
+    second: Rory New_11
+  - first:
+      213: 3173427134656966831
+    second: Rory New_12
+  - first:
+      213: -2730055127094899103
+    second: Rory New_13
+  - first:
+      213: 5346528158567393930
+    second: Rory New_14
+  - first:
+      213: 7448736901334208476
+    second: Rory New_15
+  - first:
+      213: 724749802341158643
+    second: Rory New_16
+  - first:
+      213: -2415529235588213981
+    second: Rory New_17
+  - first:
+      213: 3978800662623931516
+    second: Rory New_18
+  - first:
+      213: 4783631536938183361
+    second: Rory New_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rory New_0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2303
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1304a999b649e5390800000000000000
+      internalID: -7827655912463908815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_1
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2303
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42ff470c243bc60800000000000000
+      internalID: 7832677571291456718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2303
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3debc575b3d5a0bf0800000000000000
+      internalID: -357370710972383533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_3
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2303
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87fb3a02da3ff4d0800000000000000
+      internalID: -3098693344818366582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1727
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a333a7bbabc5adc60800000000000000
+      internalID: 7843683658098160442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_5
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1727
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c51fc33e7c4d90800000000000000
+      internalID: -7112170950542113478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_6
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1727
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74adf171f813338b0800000000000000
+      internalID: -5173737056280520121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_7
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1727
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deba10ce8401013f0800000000000000
+      internalID: -932227217482470419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1151
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b36d69b4de8d3d0800000000000000
+      internalID: -3181532227828302991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_9
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1151
+        width: 344
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caab929fb4ec8d90800000000000000
+      internalID: -7094043801565812029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_10
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1151
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19eff685af2369f0800000000000000
+      internalID: -476484747590112995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_11
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1151
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5aa6ff7a3c0d590800000000000000
+      internalID: -7651400640590338651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 575
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa070d95a274a0c20800000000000000
+      internalID: 3173427134656966831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 575
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e464c8355ec1ad0800000000000000
+      internalID: -2730055127094899103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_14
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 575
+        width: 308
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a6809780fa23a40800000000000000
+      internalID: 5346528158567393930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_15
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 575
+        width: 308
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf8e552fba3f5760800000000000000
+      internalID: 7448736901334208476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 308
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe4497fa14de0a00800000000000000
+      internalID: 724749802341158643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_17
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 308
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323913055f05a7ed0800000000000000
+      internalID: -2415529235588213981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_18
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 308
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cc9cf3f1a873730800000000000000
+      internalID: 3978800662623931516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rory New_19
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 0
+        width: 362
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca6e8fb98fd26240800000000000000
+      internalID: 4783631536938183361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rory New_0: -7827655912463908815
+      Rory New_1: 7832677571291456718
+      Rory New_10: -476484747590112995
+      Rory New_11: -7651400640590338651
+      Rory New_12: 3173427134656966831
+      Rory New_13: -2730055127094899103
+      Rory New_14: 5346528158567393930
+      Rory New_15: 7448736901334208476
+      Rory New_16: 724749802341158643
+      Rory New_17: -2415529235588213981
+      Rory New_18: 3978800662623931516
+      Rory New_19: 4783631536938183361
+      Rory New_2: -357370710972383533
+      Rory New_3: -3098693344818366582
+      Rory New_4: 7843683658098160442
+      Rory New_5: -7112170950542113478
+      Rory New_6: -5173737056280520121
+      Rory New_7: -932227217482470419
+      Rory New_8: -3181532227828302991
+      Rory New_9: -7094043801565812029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
