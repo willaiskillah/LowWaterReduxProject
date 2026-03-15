@@ -8,6 +8,9 @@ TagManager:
   - Activator
   - LightPurple
   - DarkPurple
+  - Rorycard
+  - Locked2Card
+  - Locked1Card
   layers:
   - Default
   - TransparentFX
