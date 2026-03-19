@@ -20,9 +20,10 @@ public class BeatScroller : MonoBehaviour
     {
         if (!hasStarted)
         {
+            timestart = Time.time;
             float currentTime = Time.time;
             float timethusfar = currentTime - timestart;
-            if (timethusfar > 0.02f)
+            if (timethusfar > 0f)
             {
                 hasStarted = true;
             }
