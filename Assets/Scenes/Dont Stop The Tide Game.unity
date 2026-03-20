@@ -5366,7 +5366,7 @@ GameObject:
   - component: {fileID: 256757784}
   - component: {fileID: 256757783}
   m_Layer: 7
-  m_Name: LightPurpleBlock (7)
+  m_Name: LP20
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5381,7 +5381,7 @@ Transform:
   m_GameObject: {fileID: 256757781}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 19.742743, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 19.742743, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5519,7 +5519,7 @@ GameObject:
   - component: {fileID: 265923292}
   - component: {fileID: 265923291}
   m_Layer: 7
-  m_Name: LightPurpleBlock (3)
+  m_Name: LP7
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5534,7 +5534,7 @@ Transform:
   m_GameObject: {fileID: 265923289}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 11.044831, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 11.34, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10600,7 +10600,7 @@ GameObject:
   - component: {fileID: 328063684}
   - component: {fileID: 328063683}
   m_Layer: 7
-  m_Name: LightPurpleBlock (2)
+  m_Name: LP6
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10615,7 +10615,7 @@ Transform:
   m_GameObject: {fileID: 328063681}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 10.699433, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 10.72, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15681,7 +15681,7 @@ GameObject:
   - component: {fileID: 386933433}
   - component: {fileID: 386933432}
   m_Layer: 7
-  m_Name: LightPurpleBlock (4)
+  m_Name: LP10
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15696,7 +15696,7 @@ Transform:
   m_GameObject: {fileID: 386933430}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 14.251529, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 14.251529, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15948,7 +15948,7 @@ GameObject:
   - component: {fileID: 466157634}
   - component: {fileID: 466157633}
   m_Layer: 7
-  m_Name: Dark Purple Block (4)
+  m_Name: DP19
   m_TagString: DarkPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15963,7 +15963,7 @@ Transform:
   m_GameObject: {fileID: 466157631}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.09278655, y: 19.436464, z: 0}
+  m_LocalPosition: {x: 0.117, y: 19.436464, z: 0}
   m_LocalScale: {x: 0.4371934, y: 0.6412931, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16101,7 +16101,7 @@ GameObject:
   - component: {fileID: 503480705}
   - component: {fileID: 503480704}
   m_Layer: 7
-  m_Name: Dark Purple Block (1)
+  m_Name: DP9
   m_TagString: DarkPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16116,7 +16116,7 @@ Transform:
   m_GameObject: {fileID: 503480702}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.09278655, y: 12.37086, z: 0}
+  m_LocalPosition: {x: 0.117, y: 12.37086, z: 0}
   m_LocalScale: {x: 0.4371934, y: 0.6412931, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16391,7 +16391,7 @@ GameObject:
   - component: {fileID: 545343641}
   - component: {fileID: 545343640}
   m_Layer: 7
-  m_Name: Dark Purple Block (2)
+  m_Name: DP11
   m_TagString: DarkPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16406,7 +16406,7 @@ Transform:
   m_GameObject: {fileID: 545343638}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.09278655, y: 14.61068, z: 0}
+  m_LocalPosition: {x: 0.117, y: 14.61068, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16544,7 +16544,7 @@ GameObject:
   - component: {fileID: 566357373}
   - component: {fileID: 566357372}
   m_Layer: 7
-  m_Name: LightPurpleBlock (12)
+  m_Name: LP22
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16559,11 +16559,11 @@ Transform:
   m_GameObject: {fileID: 566357370}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 20.52217, z: 0}
+  m_LocalPosition: {x: -0.61593604, y: 20.482168, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1300735721}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &566357372
 BoxCollider2D:
@@ -16788,7 +16788,7 @@ GameObject:
   - component: {fileID: 600681911}
   - component: {fileID: 600681910}
   m_Layer: 7
-  m_Name: LightPurpleBlock (3)
+  m_Name: LP8
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16922,7 +16922,7 @@ Transform:
   m_GameObject: {fileID: 600681909}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 11.600587, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 11.600587, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17345,7 +17345,7 @@ GameObject:
   - component: {fileID: 872934873}
   - component: {fileID: 872934872}
   m_Layer: 7
-  m_Name: LightPurpleBlock (11)
+  m_Name: LP14
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17360,7 +17360,7 @@ Transform:
   m_GameObject: {fileID: 872934870}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 15.910742, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 15.910742, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17498,7 +17498,7 @@ GameObject:
   - component: {fileID: 1013826491}
   - component: {fileID: 1013826490}
   m_Layer: 7
-  m_Name: LightPurpleBlock (8)
+  m_Name: LP17
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17513,7 +17513,7 @@ Transform:
   m_GameObject: {fileID: 1013826488}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 18.5942, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 18.5942, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17651,7 +17651,7 @@ GameObject:
   - component: {fileID: 1023811418}
   - component: {fileID: 1023811417}
   m_Layer: 7
-  m_Name: LightPurpleBlock (5)
+  m_Name: LP12
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17666,7 +17666,7 @@ Transform:
   m_GameObject: {fileID: 1023811415}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 14.806479, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 14.806479, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -27568,7 +27568,7 @@ GameObject:
   - component: {fileID: 1242733177}
   - component: {fileID: 1242733176}
   m_Layer: 7
-  m_Name: Dark Purple Block (6)
+  m_Name: DP21
   m_TagString: DarkPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27922,7 +27922,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BeatScroller
   beatTempo: 90
   hasStarted: 1
-  timestart: 0
+  timestart: 2
   timeout: 0
 --- !u!4 &1300735721
 Transform:
@@ -27933,32 +27933,31 @@ Transform:
   m_GameObject: {fileID: 1300735719}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.46654, y: -3.87, z: 0}
+  m_LocalPosition: {x: 0.46654, y: -0.04, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 600681913}
-  - {fileID: 1496548030}
+  - {fileID: 1787940040}
+  - {fileID: 2075371229}
   - {fileID: 1943344218}
+  - {fileID: 1918212927}
+  - {fileID: 1496548030}
   - {fileID: 328063682}
   - {fileID: 265923290}
-  - {fileID: 1918212927}
+  - {fileID: 600681913}
   - {fileID: 503480703}
-  - {fileID: 545343639}
   - {fileID: 386933431}
-  - {fileID: 1557590332}
-  - {fileID: 256757782}
-  - {fileID: 566357371}
-  - {fileID: 1013826489}
-  - {fileID: 1706271050}
-  - {fileID: 466157632}
-  - {fileID: 1242733175}
+  - {fileID: 545343639}
   - {fileID: 1023811416}
   - {fileID: 2042844965}
   - {fileID: 872934871}
   - {fileID: 1588800905}
-  - {fileID: 1787940040}
-  - {fileID: 2075371229}
+  - {fileID: 1557590332}
+  - {fileID: 1013826489}
+  - {fileID: 1706271050}
+  - {fileID: 466157632}
+  - {fileID: 256757782}
+  - {fileID: 1242733175}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1488283286
@@ -28129,7 +28128,7 @@ GameObject:
   - component: {fileID: 1496548032}
   - component: {fileID: 1496548031}
   m_Layer: 7
-  m_Name: Dark Purple Block
+  m_Name: DP5
   m_TagString: DarkPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28144,7 +28143,7 @@ Transform:
   m_GameObject: {fileID: 1496548029}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.09278655, y: 10.469477, z: 0}
+  m_LocalPosition: {x: 0.117, y: 10.57, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -33210,7 +33209,7 @@ GameObject:
   - component: {fileID: 1557590334}
   - component: {fileID: 1557590333}
   m_Layer: 7
-  m_Name: Dark Purple Block (3)
+  m_Name: DP16
   m_TagString: DarkPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33225,7 +33224,7 @@ Transform:
   m_GameObject: {fileID: 1557590331}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.09278655, y: 18.31818, z: 0}
+  m_LocalPosition: {x: 0.117, y: 18.31818, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -33363,7 +33362,7 @@ GameObject:
   - component: {fileID: 1588800907}
   - component: {fileID: 1588800906}
   m_Layer: 7
-  m_Name: Dark Purple Block (5)
+  m_Name: DP15
   m_TagString: DarkPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33378,7 +33377,7 @@ Transform:
   m_GameObject: {fileID: 1588800904}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.09278655, y: 16.515844, z: 0}
+  m_LocalPosition: {x: 0.117, y: 16.515844, z: 0}
   m_LocalScale: {x: 0.4371934, y: 0.6412931, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -43279,7 +43278,7 @@ GameObject:
   - component: {fileID: 1706271052}
   - component: {fileID: 1706271051}
   m_Layer: 7
-  m_Name: LightPurpleBlock (9)
+  m_Name: LP18
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43294,7 +43293,7 @@ Transform:
   m_GameObject: {fileID: 1706271049}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 19.098356, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 19.098356, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -43432,7 +43431,7 @@ GameObject:
   - component: {fileID: 1787940043}
   - component: {fileID: 1787940042}
   m_Layer: 7
-  m_Name: LightPurpleBlock
+  m_Name: LP1
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43447,7 +43446,7 @@ Transform:
   m_GameObject: {fileID: 1787940039}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 6.9374204, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 7.12, z: 0}
   m_LocalScale: {x: 0.4371934, y: 0.6412931, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -43808,7 +43807,7 @@ GameObject:
   - component: {fileID: 1918212929}
   - component: {fileID: 1918212928}
   m_Layer: 7
-  m_Name: Dark Purple Block
+  m_Name: DP4
   m_TagString: DarkPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43823,7 +43822,7 @@ Transform:
   m_GameObject: {fileID: 1918212926}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.09278655, y: 8.550913, z: 0}
+  m_LocalPosition: {x: 0.117, y: 8.53, z: 0}
   m_LocalScale: {x: 0.4371934, y: 0.6412931, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -43961,7 +43960,7 @@ GameObject:
   - component: {fileID: 1943344216}
   - component: {fileID: 1943344215}
   m_Layer: 7
-  m_Name: LightPurpleBlock (1)
+  m_Name: LP3
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44095,7 +44094,7 @@ Transform:
   m_GameObject: {fileID: 1943344214}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 8.045341, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 8.1183, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -44114,7 +44113,7 @@ GameObject:
   - component: {fileID: 2042844967}
   - component: {fileID: 2042844966}
   m_Layer: 7
-  m_Name: LightPurpleBlock (6)
+  m_Name: LP13
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44129,7 +44128,7 @@ Transform:
   m_GameObject: {fileID: 2042844964}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 15.152316, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 15.152316, z: 0}
   m_LocalScale: {x: 0.43719, y: 0.64129, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -44267,7 +44266,7 @@ GameObject:
   - component: {fileID: 2075371231}
   - component: {fileID: 2075371230}
   m_Layer: 7
-  m_Name: LightPurpleBlock (10)
+  m_Name: LP2
   m_TagString: LightPurple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44282,7 +44281,7 @@ Transform:
   m_GameObject: {fileID: 2075371228}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.082476, y: 7.6655245, z: 0}
+  m_LocalPosition: {x: -1.0645, y: 7.8013, z: 0}
   m_LocalScale: {x: 0.4371934, y: 0.6412931, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -44426,6 +44425,7 @@ SceneRoots:
   - {fileID: 603512461}
   - {fileID: 1265240136}
   - {fileID: 1300735721}
+  - {fileID: 566357371}
   - {fileID: 96770849}
   - {fileID: 790699186}
   - {fileID: 615657884}
